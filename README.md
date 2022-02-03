@@ -23,7 +23,6 @@ Sum the String : https://www.codewars.com/kata/5966e33c4e686b508700002d
 
 While and Do While : https://www.codewars.com/kata/57216d4bcdd71175d6000560
 
-
 For in For of : https://www.codewars.com/kata/5722b3f0bd5583cf44001000
 
 Break : https://www.codewars.com/kata/5721c189cdd71194c1000b9b
