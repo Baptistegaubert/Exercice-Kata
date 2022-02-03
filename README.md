@@ -46,3 +46,5 @@ Basic Data Type Number : https://www.codewars.com/kata/571edd157e8954bab500032d
 Convert Number to a String : https://www.codewars.com/kata/5265326f5fda8eb1160004c8
 
 Hello World ! : https://www.codewars.com/kata/571ec274b1c8d4a61c0000c8
+
+Individual_exo : https://github.com/adatechschool/ateliers/tree/master/20210407_compression
